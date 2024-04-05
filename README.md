@@ -1,6 +1,7 @@
 # Lyrics-Generation with Melody Integration
 Description:
-This project focuses on generating song lyrics using RNN architecture, with the integration of melody features. The goal is to create a model that can generate coherent and musically relevant lyrics based on input seed words and melody features.
+This project focuses on generating song lyrics using RNN architecture, with the integration of melody features.
+The goal is to create a model that can generate coherent and musically relevant lyrics based on input seed words and melody features.
 
 Features:
 Lyrics Generation: The core functionality of the project involves generating song lyrics using deep learning models trained on existing song dataset, given by instructor.
